@@ -2,8 +2,9 @@
     "BackofficePlatform":     {
         "AdminApiGatewayUrl":   "https://admin-api.mavn.open-source.exchange",
         "LogoUrl__backup_tx-group": "https://mavndevnotifsysadapter.blob.core.windows.net/email-images/logo-tx-group.png",
+        "LogoHeight__backup_tx-group": "54px",
         "LogoUrl": "https://mavndevnotifsysadapter.blob.core.windows.net/email-images/logo_large--lykke-business.png",
-        "LogoHeight": "54px",
+        "LogoHeight": "26px",
         "HelpDocumentUrl":   "https://google.com",
         "HideBlockchainMenu":   false,
         "HideSegmentMenu":   true,

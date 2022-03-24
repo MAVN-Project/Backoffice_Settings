@@ -1,0 +1,28 @@
+{
+  "BackofficePlatform": {
+    "Auth": {
+      "Authority": "https://lykkecorp-test.eu.auth0.com",
+      "ClientId": "8dPVBTz32GfkUk8mUQTFGmcYONzNvIqh",
+      "Audience": "devserver-dolphin https://hermes.test.lykke.com",
+      "RealmHint": "dev-server"
+    },
+    "AdminApiGatewayUrl": "http://skb-test.portal.test.aws.lykkeservices.net",
+    "LogoUrl": "assets/images/logo-SKB_StadtBonBasel.svg",
+    "LogoHeight": "36px",
+    "HelpDocumentUrl": "mailto:contact@lykke-business.ch",
+    "PayrexxInstructionLink": "https://docs.google.com/document/d/e/2PACX-1vSQigFEq3TlXYDG1Yu7UjFWKDVvU7GfwbJD8_kYQE_uSXU6vMYP53CkYv57SEHRnQdqcI12DqibZz4Z/pub",
+    "HideBlockchainMenu": true,
+    "HideSegmentMenu": true,
+    "HideTierMenu": true,
+    "TokenSymbol": "SKB",
+    "TokenIconUrl": "assets/images/icons/spg-token-icon.png",
+    "BaseCurrencyCode": "CHF",
+    "MobileAppImageFileSizeInKB": 10240,
+    "MobileAppImageMinWidth": 1024,
+    "MobileAppImageMinHeight": 684,
+    "IsCustomerActivitiesFeatureDisabled": true,
+    "IsRealEstateFeatureDisabled": true,
+    "IsPublicBlockchainFeatureDisabled": true,
+    "GoogleMapsApiKey": "AIzaSyCSKzvZD4FhlgFXEZrHkJriDszlRccRg-A"
+  }
+}

@@ -6,7 +6,7 @@
       "Audience": "https://hermes.test.lykke.com",
       "RealmHint": "dev-server"
     },
-    "AdminApiGatewayUrl": "http://skb-test.portal.test.aws.lykkeservices.net",
+    "AdminApiGatewayUrl": "https://skb-test.portal.test.aws.lykkeservices.net",
     "LogoUrl": "assets/images/logo-SKB_StadtBonBasel.svg",
     "LogoHeight": "36px",
     "HelpDocumentUrl": "mailto:contact@lykke-business.ch",

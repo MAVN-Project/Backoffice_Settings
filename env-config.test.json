@@ -2,9 +2,10 @@
   "BackofficePlatform": {
     "Auth": {
       "Authority": "https://lykkecorp-test.eu.auth0.com",
-      "ClientId": "8dPVBTz32GfkUk8mUQTFGmcYONzNvIqh",
+      "ClientId": "IgNuIDwinvCDLuMfhGOktMHzlHvNHPO5",
       "Audience": "https://hermes.test.lykke.com",
-      "RealmHint": "dev-server"
+      "Connection": "google-oauth2",
+      "RealmHint": ""
     },
     "AdminApiGatewayUrl": "https://skb-test.portal.test.aws.lykkeservices.net",
     "LogoUrl": "assets/images/logo-SKB_StadtBonBasel.svg",

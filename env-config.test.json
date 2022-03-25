@@ -19,7 +19,7 @@
       "Connection": "google-oauth2",
       "RealmHint": ""
     },
-    "AdminApiGatewayUrl": "https://ef6e-2-92-246-131.ngrok.io",
+    "AdminApiGatewayUrl": "https://skb-test.portal.test.aws.lykkeservices.net",
     "AdminApiGatewayUrl_ngrok": "https://ef6e-2-92-246-131.ngrok.io",
     "AdminApiGatewayUrl_skb-test": "https://skb-test.portal.test.aws.lykkeservices.net",
     

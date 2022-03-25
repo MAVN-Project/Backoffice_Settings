@@ -2,8 +2,8 @@
   "BackofficePlatform": {
     "Auth": {
       "Authority": "https://lykkecorp-test.eu.auth0.com",
-      "ClientId": "KPMVQwfe1xkYfgE7ZMKZBg3STJN6eeS7",
-      "Audience": "devserver-dolphin",
+      "ClientId": "8dPVBTz32GfkUk8mUQTFGmcYONzNvIqh",
+      "Audience": "devserver-dolphin https://hermes.test.lykke.com",
       "RealmHint": "dev-server"
     },
     "Auth_local": {

@@ -3,7 +3,7 @@
     "Auth": {
       "Authority": "https://lykkecorp-test.eu.auth0.com",
       "ClientId": "8dPVBTz32GfkUk8mUQTFGmcYONzNvIqh",
-      "Audience": "devserver-dolphin https://hermes.test.lykke.com",
+      "Audience": "https://hermes.test.lykke.com",
       "RealmHint": "dev-server"
     },
     "Auth_local": {

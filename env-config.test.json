@@ -2,7 +2,7 @@
   "BackofficePlatform": {
     "Auth": {
       "Authority": "https://lykkecorp-test.eu.auth0.com",
-      "ClientId": "8dPVBTz32GfkUk8mUQTFGmcYONzNvIqh",
+      "ClientId": "KPMVQwfe1xkYfgE7ZMKZBg3STJN6eeS7",
       "Audience": "https://hermes.test.lykke.com",
       "RealmHint": "dev-server"
     },

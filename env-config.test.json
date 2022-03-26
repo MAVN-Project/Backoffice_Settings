@@ -33,7 +33,7 @@
     "TokenSymbol": "CHF",
     "TokenIconUrl": "assets/images/icons/token-icon.png",
     "BaseCurrencyCode": "CHF",
-    "MobileAppImageFileSizeInKB": 10240,
+    "MobileAppImageFileSizeInKB": 5024,
     "MobileAppImageMinWidth": 1024,
     "MobileAppImageMinHeight": 684,
     "IsCustomerActivitiesFeatureDisabled": true,

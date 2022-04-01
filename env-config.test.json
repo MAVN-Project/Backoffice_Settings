@@ -4,24 +4,10 @@
       "Authority": "https://lykkecorp-test.eu.auth0.com",
       "ClientId": "KPMVQwfe1xkYfgE7ZMKZBg3STJN6eeS7",
       "Audience": "https://hermes.test.lykke.com",
+      "Connection": "",
       "RealmHint": "dev-server"
-    },
-    "Auth_local": {
-      "Authority": "https://lykkecorp-test.eu.auth0.com",
-      "ClientId": "KPMVQwfe1xkYfgE7ZMKZBg3STJN6eeS7",
-      "Audience": "devserver-dolphin",
-      "RealmHint": "dev-server"
-    },
-    "Auth_managementapp_app_example": {
-      "Authority": "https://lykkecorp-test.eu.auth0.com",
-      "ClientId": "IgNuIDwinvCDLuMfhGOktMHzlHvNHPO5",
-      "Audience": "https://hermes.test.lykke.com",
-      "Connection": "google-oauth2",
-      "RealmHint": ""
     },
     "AdminApiGatewayUrl": "https://skb-test.portal.test.aws.lykkeservices.net",
-    "AdminApiGatewayUrl_ngrok": "https://ef6e-2-92-246-131.ngrok.io",
-    "AdminApiGatewayUrl_skb-test": "https://skb-test.portal.test.aws.lykkeservices.net",
     
     "LogoUrl": "assets/images/logo-SKB_StadtBonBasel.svg",
     "LogoHeight": "36px",
